@@ -1,3 +1,13 @@
-# Exercício CSS Flex 2
+# CSS Flexbox Exercise Project
 
-Segundo exercício de CSS Flex feito no curso do DevQuest - Dev em Dobro adaptado do Frontend Mentor utilizando as linguagens HTML e CSS. Vendo agora já estando mais avançado no curso vejo que poderia ter usado tags mais semânticas no código, fica de aprendizado para os projetos futuros.
+## Project Description
+This is the second CSS Flexbox exercise from the DevQuest course by Dev em Dobro, adapted from Frontend Mentor challenges. The project utilizes HTML and CSS to create a responsive layout.
+
+## Key Features
+- CSS Flexbox-based layout
+- Responsive design
+- Component-based structure
+- Cross-browser compatibility
+
+## Project Notes
+Looking back now, being further along in the course, I realize I could have used more semantic HTML tags in the code. This serves as a learning experience for future projects.
